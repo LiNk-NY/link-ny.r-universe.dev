@@ -146,5 +146,9 @@
   {
     "package": "newsfeed",
     "url": "https://github.com/waldronlab/newsfeed"
+  },
+  {
+    "package": "BiocPkgDash",
+    "url": "https://github.com/Bioconductor/BiocPkgDash"
   }
 ]
